@@ -1,0 +1,12 @@
+.title{
+    color: green;
+}
+
+h1{
+    font-style: italic;
+    font-family: '隶书';
+}
+
+:global(.test){
+    font-style: italic;
+}

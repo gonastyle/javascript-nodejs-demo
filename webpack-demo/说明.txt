@@ -1,0 +1,7 @@
+
+npm 位于：E:\Windows10\node-v10.16.0-win-x64
+nrm  切换镜像地址
+
+启动项目：
+1.npm run build
+2.npm run dev
